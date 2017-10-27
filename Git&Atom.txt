@@ -1,0 +1,64 @@
+
+========== git =========
+
+git init #初始化一个git仓库
+
+
+git status #查看git仓库当前状态
+
+
+git log #查看提交日志
+
+
+git add --all #将所有文件添加到跟踪状态
+
+
+git commit -m '日志信息' #本地提交
+
+
+mygist token ：346f1289a940e3a65c21032a6dd80c77a15abfca ；
+
+
+
+
+
+
+
+========== Atom =========
+
+
+
+simplified-chinese-menu  #汉化
+
+
+minimap    #大纲        
+
+                  
+
+emmet       #代码块
+
+
+ 
+atom-beautify   #格式化
+
+
+autoprefixer    #自动提示前缀
+
+
+
+autocomplete-paths  #自动补全
+
+
+
+open-in-browsers    #浏览器快捷键
+
+=========== Atom同步插件 =========
+
+1、安装 sync settings
+2、ctrl + shift + p
+
+   输入 sync-settings:backup 将本机配置上传到gist
+   输入 sync-settings:restore 将gist上的配置同步到本机
+  
+
+
